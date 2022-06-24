@@ -1,6 +1,5 @@
 import React from 'react'
 import Portfolio from './components/portfolio-component/Portfolio'
-import Testimonials from './components/testimonials-component/Testimonials'
 import Experience from './components/experience-component/Experience'
 import Header from './components/header-component/Header'
 import Nav from './components/nav-component/Nav'
@@ -17,7 +16,6 @@ export default function App() {
     <About/>
     <Experience/>
     <Portfolio/>
-    <Testimonials/>
     <Contact/>
     <Footer/>
     </>
